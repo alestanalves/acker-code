@@ -4,7 +4,7 @@ from googlesearch import search
 #num_results será o numero de resultados que será mostrado
 #Em lang você pode definir a linguagem da busca
 
-python_search = search("Python", num_results=10, lang="br")
+python_search = search("pudim", num_results=10, lang="br")
 
 #O print de python_search mostrará uma lista com os top 10 links
 
